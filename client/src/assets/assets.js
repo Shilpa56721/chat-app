@@ -8,13 +8,15 @@ import profile_richard from './profile_richard.png'
 import profile_alison from './profile_alison.png'
 import profile_enrique from './profile_enrique.png'
 import profile_marco from './profile_marco.png'
+import bgImage from './bgImage.svg';
+
 import profile_martin from './profile_martin.png'
 import search_icon from './search_icon.png'
 import send_button from './send_button.svg'
 import menu_icon from './menu_icon.png'
 import arrow_icon from './arrow_icon.png'
 import code from './code.svg'
-import bgImage from './bgImage.svg'
+
 import pic1 from './pic1.png'
 import pic2 from './pic2.png'
 import pic3 from './pic3.png'
